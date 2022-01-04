@@ -44,7 +44,6 @@ test('#equal',function(){
 });
 
 test('',function(){
-
   assert.equal(convertHandler.getReturnUnit("km"),"mi");
 });
 test('',function(){
